@@ -9,4 +9,4 @@ A Greasemonkey script that applies the browser's monospace font to message body 
 
 ### Firefox
 1. Install [Greasemonkey](https://addons.mozilla.org/firefox/addon/748)
-2. [Click to install](https://github.com/dooferlad/gmail-fixed-font/raw/master/gmail-fixed-font.user.js)
+2. [Click to install](https://github.com/ryanlovett/gmail-fixed-font/raw/master/gmail-fixed-font.user.js)
