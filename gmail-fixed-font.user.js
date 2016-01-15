@@ -12,9 +12,9 @@
 // ==/UserScript==
 
 // Plain-text Message Body
-var css = ".ii, .Ak { font: small monospace !important; }";
+var css = ".ii, .Ak { font-family: \"Lucida Console\", Monaco, monospace !important; }";
 // Compose Interface
-css += ".editable { font: small monospace !important; }";
+css += ".editable { font-family: \"Lucida Console\", Monaco, monospace !important; }";
 
 if (typeof GM_addStyle != "undefined") {
     GM_addStyle(css);
